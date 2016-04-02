@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_area.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\CoolWeather\\app\\src\\main\\res\\layout\\choose_area.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\CoolWeather\\app\\src\\main\\res\\layout\\weather_layout.xml"
+    }
+]
